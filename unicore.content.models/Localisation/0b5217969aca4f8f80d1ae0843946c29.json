@@ -4,12 +4,12 @@
   "locale": "khm_KH", 
   "image": "4d1a2bca392646ac946fd56143ed20e3", 
   "logo_text": "", 
-  "logo_image": "a8fcde243a364cec8422915b63a4fb09", 
+  "logo_image": "04c5fcac1b0c419a8b96207d6fecff5e", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
